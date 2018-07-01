@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 dddiiiiiiiii
+=======
+iiiiiiiii
+第一次修改内容
+>>>>>>> origin/master
